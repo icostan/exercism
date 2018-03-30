@@ -1,0 +1,13 @@
+{
+  "run_length_encoding_test.py::WordCountTests::test_combination": true,
+  "run_length_encoding_test.py::WordCountTests::test_decode_lower_case_string": true,
+  "run_length_encoding_test.py::WordCountTests::test_decode_multiple_whitespace_mixed_in_string": true,
+  "run_length_encoding_test.py::WordCountTests::test_decode_single_characters_only": true,
+  "run_length_encoding_test.py::WordCountTests::test_decode_single_characters_with_repeated_characters": true,
+  "run_length_encoding_test.py::WordCountTests::test_decode_string_with_no_single_characters": true,
+  "run_length_encoding_test.py::WordCountTests::test_encode_lowercase_characters": true,
+  "run_length_encoding_test.py::WordCountTests::test_encode_multiple_whitespace_mixed_in_string": true,
+  "run_length_encoding_test.py::WordCountTests::test_encode_single_characters_mixed_with_repeated_characters": true,
+  "run_length_encoding_test.py::WordCountTests::test_encode_single_characters_only_are_encoded_without_count": true,
+  "run_length_encoding_test.py::WordCountTests::test_encode_string_with_no_single_characters": true
+}
